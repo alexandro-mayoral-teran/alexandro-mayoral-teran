@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">¡Hola! Soy Alexandro Mayoral Terán 👋</h1>
+<h1 align="center">¡Hola! Soy Alexandro Mayoral Terán</h1>
 
 <h3 align="center">Data Analyst | I ♥ R, music, visualizations & data</h3>
 
