@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1 align="center">¡Hola! Soy Alexandro Mayoral Terán</h1>
-
-<h3 align="center">Data Analyst | I ♥ R, music, visualizations & data</h3>
+<p align="center">
+  <img src="assets/banner.svg" alt="Alexandro Mayoral Terán - Data Analyst" />
+</p>
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Falexandro-mayoral-teran&countColor=%23263759" alt="Visitantes" />
